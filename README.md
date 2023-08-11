@@ -5,9 +5,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on C++
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with
-- 💬 Ask me about
-- 📫 How to reach me:
-- 😄 Pronouns:
-- ⚡ Fun fact:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguditi&show_icons=true&theme=dracula&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguditi&hide=html,css&theme=dracula)](https://github.com/nguditi/github-readme-stats)
