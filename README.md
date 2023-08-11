@@ -1,11 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-### Hi there 👋
+  
+  ### Hi there 👋
 - 🔭 I’m currently working on C++
 - 🌱 I’m currently learning Golang
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguditi&show_icons=true&theme=dracula&rank_icon=github)
+<a href="https://github.com/nguditi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nguditi&show_icons=true&theme=dracula&rank_icon=github" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguditi&hide=html,css&theme=dracula)](https://github.com/nguditi/github-readme-stats)
+<a href="https://github.com/nguditi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguditi&layout=compact&langs_count=8&card_width=320&hide=html,css&theme=dracula" />
+</a>
